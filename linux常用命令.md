@@ -6,7 +6,7 @@
 ## ubantu操作系统装python3可参考以下博文：https://www.cnblogs.com/Jimc/p/10218387.html
 
 ## Linux常用命令:
-rm -rf xxx(文件名)  删除某文件夹
-mkdir -p aa/bb/cc  在根目录下创建aa/bb/cc目录级别的文件夹
-ls 显示当前文件夹下所有文件
-cd /aa/bb/cc 进入cc文件目录
+rm -rf xxx(文件名)  删除某文件夹  
+mkdir -p aa/bb/cc  在根目录下创建aa/bb/cc目录  
+ls 显示当前文件夹下所有文件  
+cd /aa/bb/cc 进入cc文件目录  
