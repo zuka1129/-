@@ -1,6 +1,6 @@
 ## virtualbox创建虚拟机并安装ubantu报错文件不允许写入，解决办法可参考该博文：https://blog.csdn.net/as_csdn/article/details/52527675
 图片如下：
-![error image]()
+![error image](https://github.com/zuka1129/common-commands/blob/master/pictures/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20191122225338.jpg)
 
 
 ## ubantu操作系统装python3可参考以下博文：https://www.cnblogs.com/Jimc/p/10218387.html
